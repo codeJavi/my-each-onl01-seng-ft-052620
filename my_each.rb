@@ -5,6 +5,8 @@ while i < self.size
 yield(self[i])
 i += 1
  end
+ end
+ 
   
 
 
