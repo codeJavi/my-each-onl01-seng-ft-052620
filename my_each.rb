@@ -1,4 +1,4 @@
-class Array 
+
   def my_each
     if block_given?
       i = 0 
