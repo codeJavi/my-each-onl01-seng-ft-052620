@@ -5,8 +5,6 @@ def my_each
         yield(self[i])
         i += 1
       end
-    end
-  end
   
 
 
