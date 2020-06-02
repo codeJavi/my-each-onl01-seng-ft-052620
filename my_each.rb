@@ -10,6 +10,8 @@ def my_each
     end
   end
   
+end 
+  
 [2,10,12,15].my_each                    
 [2,10,12,15].my_each {puts 'Raymond'}   
 [2,10,12,15].my_each {|e| puts e * e} 
