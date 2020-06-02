@@ -1,4 +1,4 @@
-  def my_each
+def my_each
     if block_given?
       i = 0 
       while i < self.size
